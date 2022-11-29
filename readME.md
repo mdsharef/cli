@@ -1,0 +1,1 @@
+## Implimentation of JavaScript builtin functions' traditional way like forEach, map, filter, some, every has been done in ../Queue/impliment.js file.
